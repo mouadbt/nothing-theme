@@ -1,7 +1,7 @@
 # Nothing Theme
 
 ![Version](https://img.shields.io/badge/version-1.0.1-red)
-![License](https://img.shields.io/badge/license-GPL%20v2-white)
+![License](https://img.shields.io/badge/license-GPL--2.0-white)
 
 ![Nothing Theme Screenshot](screenshot.png)
 
