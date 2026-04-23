@@ -13,7 +13,6 @@ Ultra-minimal WordPress theme. No bloat, no opinions, no unnecessary features.
 
 Works with any page builder (Elementor, Divi, Gutenberg, Brizy, etc.) or classic WordPress editing.
 
----
 
 ## Features
 
@@ -21,7 +20,6 @@ One feature only: **nothing extra**.
 
 Just the bare minimum files WordPress requires. No widget areas, no sidebars, no bloated "features" you'll never use.
 
----
 
 ## Installation
 
@@ -29,7 +27,6 @@ Just the bare minimum files WordPress requires. No widget areas, no sidebars, no
 2. Activate via **Appearance → Themes**
 3. Build your site your way
 
----
 
 ## File Structure
 
@@ -47,7 +44,6 @@ nothing-theme/
 └── readme.txt
 ```
 
----
 
 ## Notes
 
@@ -57,7 +53,6 @@ nothing-theme/
 - No theme options
 - Just code
 
----
 
 ## Credits
 
