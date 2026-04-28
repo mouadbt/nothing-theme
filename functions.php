@@ -70,3 +70,13 @@ function nothing_theme_enqueue_styles()
 	}
 }
 add_action('wp_enqueue_scripts', 'nothing_theme_enqueue_styles');
+
+
+/**
+ * Ensure Elementor's "Hide Title" feature works correctly.
+ */
+function nothing_theme_elementor_title_config( $settings ) {
+	$settings['page_title_selector'] = 'h1.entry-title';
+	return $settings;
+}
+add_filter( 'elementor/controls/module/page_settings/after_section_end', 'nothing_theme_elementor_title_config' );
